@@ -1,6 +1,6 @@
 {
   "name": "bsa2i2env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handles environment files in Ionic 2 apps like in Angular2-CLI.",
   "main": "program.js",
   "scripts": {
