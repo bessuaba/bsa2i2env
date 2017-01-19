@@ -9,7 +9,14 @@
   "author": "",
   "license": "MIT",
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bessuaba/bsa2i2env.git"
+    "type": "git",
+    "url": "git+https://github.com/bessuaba/bsa2i2env.git"
+  },
+  "bin": {
+    "bsa2i2env": "bin/bsa2i2env.js"
+  },
+  "dependencies": {
+    "string-builder": "^0.1.4",
+    "yargs": "^6.6.0"
   }
 }
