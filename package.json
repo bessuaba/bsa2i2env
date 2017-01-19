@@ -1,0 +1,15 @@
+{
+  "name": "bsa2i2env",
+  "version": "1.0.0",
+  "description": "Handles environment files in Ionic 2 apps like in Angular2-CLI.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bessuaba/bsa2i2env.git"
+  }
+}

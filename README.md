@@ -1,0 +1,1 @@
+Angulare2+Ionic2 Environment handler.
