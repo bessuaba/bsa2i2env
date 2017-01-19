@@ -95,14 +95,14 @@ function program (options) {
 
         copy(function (error) {
             if (error) throw error;
-            process.exit(1);
+            process.exit(0);
         });        
 
     } catch (e) {
 
         console.log(e);
 
-        process.exit(0);
+        process.exit(1);
 
     }
         
